@@ -2,3 +2,12 @@ Hello Jeremy! as you can see we lost our teammates when we switched from branche
 help me bring them back!
 
 they are somewhere in the "Friends" branch can we bring them back all together to this branch?
+
+
+1) Create a file for each of your missing Friends
+
+2) On each file you will type a funny reference from them
+
+3) Save that commit!
+
+4) Wait for further instructions
