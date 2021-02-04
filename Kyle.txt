@@ -1,1 +1,13 @@
-Hello Kyle! your journy begins in the "Kyle" branch! wait for you there!
+As you can see there is just the Kyle.txt file were from now on you will receive instructions!
+
+You see... I lost my cat and I need to find it as soon as possible can you help me bring him back to his house?
+
+He's somewhere in the messy branch and i want to rescue him :(
+
+1) Go to the "Messy" branch and look for him with git log
+
+2) Go to the corresponding commit (git checkout <the commit>)
+
+3) Earse all the other files you don't need
+
+4) Save the changes on git and merge the commit in the Kyle branch
