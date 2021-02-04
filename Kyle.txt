@@ -8,6 +8,10 @@ He's somewhere in the messy branch and i want to rescue him :(
 
 2) Go to the corresponding commit (git checkout <the commit>)
 
-3) Earse all the other files you don't need
+3) Don't erase anything!
 
-4) Save the changes on git and merge the commit in the Kyle branch
+4) Create a new file in that commit where the cat is placed with instructions of how to feed him
+
+5) Save that commit 
+
+6) Merge that commit to the Kyle branch
